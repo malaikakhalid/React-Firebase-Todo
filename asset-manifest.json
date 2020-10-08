@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Firebase-Todo/static/css/main.4717d4a5.chunk.css",
+    "main.js": "/React-Firebase-Todo/static/js/main.baa8f94b.chunk.js",
+    "main.js.map": "/React-Firebase-Todo/static/js/main.baa8f94b.chunk.js.map",
+    "runtime-main.js": "/React-Firebase-Todo/static/js/runtime-main.d4acf6c8.js",
+    "runtime-main.js.map": "/React-Firebase-Todo/static/js/runtime-main.d4acf6c8.js.map",
+    "static/js/2.ec7481ea.chunk.js": "/React-Firebase-Todo/static/js/2.ec7481ea.chunk.js",
+    "static/js/2.ec7481ea.chunk.js.map": "/React-Firebase-Todo/static/js/2.ec7481ea.chunk.js.map",
+    "index.html": "/React-Firebase-Todo/index.html",
+    "precache-manifest.67bf2eccea19845f8a66bd79854253c2.js": "/React-Firebase-Todo/precache-manifest.67bf2eccea19845f8a66bd79854253c2.js",
+    "service-worker.js": "/React-Firebase-Todo/service-worker.js",
+    "static/css/main.4717d4a5.chunk.css.map": "/React-Firebase-Todo/static/css/main.4717d4a5.chunk.css.map",
+    "static/js/2.ec7481ea.chunk.js.LICENSE.txt": "/React-Firebase-Todo/static/js/2.ec7481ea.chunk.js.LICENSE.txt",
+    "static/media/Todo.css": "/React-Firebase-Todo/static/media/istockphoto-509927696-1024x1024.866f8991.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4acf6c8.js",
+    "static/js/2.ec7481ea.chunk.js",
+    "static/css/main.4717d4a5.chunk.css",
+    "static/js/main.baa8f94b.chunk.js"
+  ]
+}
